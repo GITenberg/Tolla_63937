@@ -1,5 +1,8 @@
 _repo: Tolla_63937
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63937-h/images/cover.jpg
 creator:
   author:
     agent_name: About, Edmond
@@ -18,6 +21,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Edmond_About
     - https://en.wikipedia.org/wiki/Edmond_François_Valentin_About
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63937#Tolla
 gutenberg_issued: '2020-12-01'
 gutenberg_type: Text
 identifiers:
